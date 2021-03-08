@@ -1,0 +1,14 @@
+{
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.format.enable": true,
+    "prettier.trailingComma": "all",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+    
+}
